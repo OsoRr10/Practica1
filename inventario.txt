@@ -1,0 +1,5 @@
+Articulo {nombre = "Pantalla", categoria = "tecnologia"}
+Articulo {nombre = "Balon", categoria = "deporte"}
+Articulo {nombre = "Tablet", categoria = "tecnologia"}
+Articulo {nombre = "Telefono", categoria = "tecnologia"}
+Articulo {nombre = "raqueta", categoria = "deporte"}
